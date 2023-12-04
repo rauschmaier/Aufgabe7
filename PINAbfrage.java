@@ -1,5 +1,3 @@
-package pinabfrage;
-
 import java.util.Scanner;
 
 public class PINAbfrage {
