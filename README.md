@@ -21,7 +21,7 @@ Informieren Sie sich [hier](https://falconbyte.net/exception-handling) und [hier
    - Die beiden Exception-Klassen erben von `Exception` und können somit die Methoden der Vaterklasse überschreiben. Überschreiben Sie die `getMessage()`-Methode in den beiden Exception-Klassen. Diese Methode soll einen String zurückliefern, der Informationen zu dem aufgetretenen Fehler enthält.
 
 5. **Programm Testen:**
-   - Erweitern Sie Ihr Testprogramm. Im `catch`-Block soll nun ebenfalls die `getMessage()`-Methode aufgerufen und der Rückgabewert am Bildschirm ausgegeben werden.
+   - Erweitern Sie Ihr Testprogramm. Im `catch`-Block soll nun ebenfalls die `getMessage()`-Methode aufgerufen und der Rückgabewert am Bildschirm ausgegeben werden. Verwenden Sie ggf. mehrere Catch-Blöcke.
 
 6. **Pushen:**
    - Pushen Sie Ihre Lösung auf den remote Main Branch ( git push origin main)
