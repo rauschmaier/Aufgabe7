@@ -5,7 +5,7 @@ In Java können benutzerdefinierte (eigene) Exceptions erstellt werden, um spezi
 Erstellen Sie eine Java-Anwendung, die eine einfache Buchverwaltung simuliert. Implementieren Sie eine eigene Exception-Klasse für den Fall, dass versucht wird, ein Buch mit ungültigen Werten hinzuzufügen.
 
 ## Vorbereitende Aufgaben
-Informieren Sie sich [hier](https://falconbyte.net/exception-handling) und [hier]([https://falconbyte.net/exception-handling](https://falconbyte.net/eigene-exceptions-erstellen) über Exceptions sowie das Thema "eigene Exceptions erstellen".
+Informieren Sie sich [hier](https://falconbyte.net/exception-handling) und [hier](https://falconbyte.net/eigene-exceptions-erstellen) über Exceptions sowie das Thema "eigene Exceptions erstellen".
 
 ## Arbeitsauftrag
 1. **Synchronisieren:**
